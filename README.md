@@ -18,7 +18,7 @@
 * Java
 * Spring Boot
 * Hibernate
-* Swagger (optional)
+
 
 
 
@@ -56,10 +56,10 @@ In this project, we have four layers-
 ```
 {
   "id": 1,
-  "name": "ankit sarwar",
-  "city": "NOIDA",
-  "email": "johndoe@example.com",
-  "phoneNumber": "9370215465",
+  "name": "Rushi nagare",
+  "city": "nashik",
+  "email": "rushi@gmail.com",
+  "phoneNumber": "8788514199",
   "speciality": "ORTHOPEDIC"
 }
 
@@ -72,11 +72,11 @@ In this project, we have four layers-
 ```
 {
   "id": 1,
-  "name": "Jane Smith",
-  "city": "NOIDA",
-  "email": "janesmith@example.com",
-  "phoneNumber": "9876543210",
-  "symptom": "BACK_PAIN"
+  "name": "pallavi",
+  "city": "nashik",
+  "email": "pallavi@gmail.com",
+  "phoneNumber": "6767545678",
+  "symptom": "LEG_PAIN"
 }
 
 ```
